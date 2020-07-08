@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IMFlutterPod_Tests' do
+  pod 'IMFlutterPod', :path => '../'
+  
+  
+end
